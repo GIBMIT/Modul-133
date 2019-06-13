@@ -1,0 +1,3 @@
+[submodule "gibmschedule"]
+	path = gibmschedule
+	url = https://github.com/ok2094/gibmschedule.git
